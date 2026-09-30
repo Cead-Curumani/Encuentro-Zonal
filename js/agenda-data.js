@@ -117,7 +117,7 @@ window.ZC_AGENDA_CONFIG = {
           salon: 'Plazoleta'
         }
       ],
-      nota: 'Coordinación: confirmar previamente la duración de las pistas de los himnos, los nombres y cargos para presentación en voz alta, el orden de ingreso de autoridades, el micrófono del atril y la presencia de cada interviniente.'
+      
     },
 
     {
