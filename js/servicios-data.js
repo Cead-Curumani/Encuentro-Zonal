@@ -154,6 +154,14 @@ window.ZC_SERVICIOS_CONFIG.restaurantes = [
     horario: { abre: '08:00', cierra: '22:00' },
     direccion: 'Calle 9 con Cr 16 esquina',
     celular: '304 4251405'
+  },
+  {
+    id: 'Restaurante-Food-Gourmet',
+    nombre: 'Restaurante Food Gourmet',
+    servicios: ['desayuno', 'almuerzo', 'cena'],
+    horario: { abre: '11:30', cierra: '23:00' },
+    direccion: 'Kr 12 calle 9a11',
+    celular: '314 8551641'
   }
 ];
 
